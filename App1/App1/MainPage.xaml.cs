@@ -16,7 +16,7 @@ namespace App1
         }
         private void btnOk(object sender, EventArgs e)
         {
-            if (user.Text == "admin" && password.Text == "123456")
+            if (user.Text == "admin" && password.Text == "senha@dmin")
             {
                 DisplayAlert("", "Entrou com sucesso", "Ok");
             }

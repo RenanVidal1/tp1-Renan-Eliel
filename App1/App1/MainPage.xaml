@@ -20,7 +20,6 @@
                />
         <Entry Placeholder="Password" 
                BackgroundColor="LightGray"
-               Keyboard="Numeric"
                HorizontalTextAlignment="End"
                x:Name="password"/>
 
